@@ -1,4 +1,6 @@
 # Skin Condition Classifier (HAM10000) — Demo
+AI-powered skin lesion classifier using HAM10000 dataset. Streamlit demo app for image upload and prediction of 7 skin conditions.
+
 
 **Short description:**  
 This repository contains a demo skin lesion classifier trained on the HAM10000 dataset (Skin Cancer MNIST). The project uses transfer learning (MobileNetV2) and provides a demo Streamlit web app for uploading images and getting model predictions.
